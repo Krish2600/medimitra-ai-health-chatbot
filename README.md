@@ -1,3 +1,8 @@
+## Live Demo
+
+https://medimitra-ai-health.streamlit.app
+
+
 # MediMitra – AI Healthcare Chatbot
 
 MediMitra is a multilingual AI-powered healthcare chatbot designed to provide healthcare guidance, symptom-related assistance, and medical FAQ support through an interactive conversational interface.
