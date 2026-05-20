@@ -1,0 +1,103 @@
+[
+  {
+    "q": "What is the goal of the Ayushman Bharat PM-JAY scheme?",
+    "a": "It provides a health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization to poor and vulnerable families."
+  },
+  {
+    "q": "Do I have to pay for Ayushman Bharat?",
+    "a": "No. All eligible beneficiaries can get free services and cashless access to healthcare at public and empanelled private hospitals."
+  },
+  {
+    "q": "Who is eligible for Ayushman Bharat (PM-JAY)?",
+    "a": "Families identified by the government based on the Socio-Economic Caste Census (SECC) database. There is no enrollment process."
+  },
+  {
+    "q": "Does Ayushman Bharat cover pre-existing diseases?",
+    "a": "Yes, all pre-existing conditions are covered from day one of the policy."
+  },
+  {
+    "q": "What is basic preventive care?",
+    "a": "Preventive care involves actions to prevent illness, such as regular check-ups, vaccinations, and maintaining good hygiene like handwashing."
+  },
+  {
+    "q": "How can I prevent diseases like diarrhea?",
+    "a": "Practice good hygiene. Wash your hands with soap and water after using the toilet and before eating. Drink clean, safe water."
+  },
+  {
+    "q": "What are the main symptoms of Dengue fever?",
+    "a": "Sudden high fever, severe headache, severe pain behind the eyes, joint and muscle pain, fatigue, and rash."
+  },
+  {
+    "q": "How is Dengue fever transmitted?",
+    "a": "Dengue is transmitted by the bite of an infected Aedes aegypti mosquito. This mosquito bites during the day."
+  },
+  {
+    "q": "How do I prevent Dengue?",
+    "a": "Prevent mosquito breeding. Do not let water stagnate in or around your home. Wear full-sleeved clothes and use mosquito repellent."
+  },
+  {
+    "q": "What should I do if I think I have Dengue?",
+    "a": "Consult a doctor immediately. Rest, drink plenty of fluids like ORS, and take paracetamol for fever. Do NOT take aspirin or ibuprofen."
+  },
+  {
+    "q": "What are the common symptoms of Malaria?",
+    "a": "Symptoms include cycles of fever, chills, and sweats. It is often accompanied by headache, body ache, nausea, and vomiting."
+  },
+  {
+    "q": "How is Malaria spread?",
+    "a": "Malaria is spread by the bite of an infected female Anopheles mosquito. These mosquitoes usually bite between dusk and dawn."
+  },
+  {
+    "q": "How can I protect my family from Malaria?",
+    "a": "Use insecticide-treated bed nets (ITNs) while sleeping. Use mosquito repellent creams or sprays and wear protective clothing."
+  },
+  {
+    "q": "What are the main symptoms of Tuberculosis (TB)?",
+    "a": "A persistent cough lasting 2 weeks or more, chest pain, coughing up blood, weakness, weight loss, fever, and night sweats."
+  },
+  {
+    "q": "How does Tuberculosis spread?",
+    "a": "TB is an airborne disease. It spreads when a person with lung TB coughs, sneezes, or spits, releasing the germs into the air, which are then inhaled by others."
+  },
+  {
+    "q": "Is TB curable?",
+    "a": "Yes, TB is completely curable. It requires taking a full course of antibiotics for 6-9 months, as prescribed by a doctor. Do not stop treatment early."
+  },
+  {
+    "q": "What is the National Immunization Schedule (NIS)?",
+    "a": "It is a government-provided vaccination schedule that gives a list of all essential vaccines to be given to infants, children, and pregnant women."
+  },
+  {
+    "q": "When should a newborn baby get the BCG vaccine?",
+    "a": "The BCG vaccine should be given at birth or as early as possible till one year of age."
+  },
+  {
+    "q": "What is the schedule for the Oral Polio Vaccine (OPV)?",
+    "a": "A birth dose (OPV-0) is given at birth, followed by three doses at 6 weeks, 10 weeks, and 14 weeks."
+  },
+  {
+    "q": "When is the first dose of the Measles-Rubella (MR) vaccine given?",
+    "a": "The first dose of the MR vaccine is given when the child is 9 to 12 months old."
+  },
+  {
+    "q": "What vaccines are given at 6 weeks of age?",
+    "a": "At 6 weeks, the child receives OPV-1, Pentavalent-1, Rotavirus-1, fIPV-1, and PCV-1."
+  },
+  {
+    "q": "What is the Pentavalent vaccine?",
+    "a": "The Pentavalent vaccine protects a child from five diseases: Diphtheria, Pertussis (Whooping Cough), Tetanus, Hepatitis B, and Haemophilus influenzae type b (Hib)."
+  },
+  {
+    "q": "When are the booster doses for DPT given?",
+    "a": "The first DPT booster is given at 16-24 months, and the second DPT booster is given at 5-6 years of age."
+  },
+  {
+    "q": "What is the Hepatitis B birth dose?",
+    "a": "The Hepatitis B vaccine (Birth Dose) is given to a newborn at birth or as early as possible within 24 hours."
+  },
+  {
+    "q": "Why are vaccinations important?",
+    "a": "Vaccines train your body's immune system to fight off serious, life-threatening diseases, protecting both the individual and the community."
+  }
+]
+

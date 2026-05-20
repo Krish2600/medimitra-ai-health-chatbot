@@ -1,0 +1,19 @@
+{
+  "general_alerts": [
+    {
+      "priority": "HIGH",
+      "english_message": "Consult a registered doctor immediately if you have a persistent fever, cough, or difficulty breathing.",
+      "hindi_message": "यदि आपको लगातार बुखार, खांसी या सांस लेने में कठिनाई हो तो तुरंत डॉक्टर से सलाह लें।",
+      "bhojpuri_message": "जदी रउआँके लगातार बोखार, खाँसी भा साँस लेवे में दिक्कत होखे त तुरंते डागडर से मिलीं।"
+    }
+  ],
+  "seasonal_alerts": [
+    {
+      "priority": "MEDIUM",
+      "english_message": "The monsoon season increases the risk of waterborne diseases. Ensure you drink only boiled or filtered water.",
+      "hindi_message": "मानसून के मौसम में जलजनित रोगों का खतरा बढ़ जाता है। सुनिश्चित करें कि आप केवल उबला हुआ या फ़िल्टर्ड पानी ही पीते हैं।",
+      "bhojpuri_message": "बरसात के मौसम में पानी से होखे वाला बेमारी के खतरा बढ़ जाला। खाली उबालल भा फ़िल्टर कइल पानी पीहीं।"
+    }
+  ]
+}
+

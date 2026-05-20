@@ -1,0 +1,38 @@
+{
+  "language_code": "en",
+  "TRANSLATIONS": {
+    "title": "MediMitra: Health Assistant",
+    "language_select": "Select Language",
+    "alert_title": "Important Alerts",
+    "enter_query": "Enter your query here...",
+    "speak_prompt": "Press to speak...",
+    "speaking_prompt": "Recording... press to stop",
+    "transcribing": "Transcribing...",
+    "thinking": "Thinking...",
+    "groq_fail": "Sorry, I encountered an error trying to connect to the AI model.",
+    "stt_fail": "Could not understand audio. Please try again.",
+    "tts_fail": "Could not generate audio for this response.",
+    "related_questions_title": "Related Questions:",
+    "related_questions_placeholder": "Select a related question...",
+    "emergency_info": "In case of a medical emergency, please call 102 (Ambulance) or 108 (Emergency Services)."
+  },
+  "INTENTS": [
+    {
+      "intent_key": "GREETING",
+      "english_keywords": ["hello", "hi", "hey", "good morning", "good evening"],
+      "responses": [
+        "Hello! I'm MediMitra, your health assistant. How can I help you today?",
+        "Hi there! How can I assist you with your health questions?"
+      ]
+    },
+    {
+      "intent_key": "THANK_YOU",
+      "english_keywords": ["thanks", "thank you", "appreciate it"],
+      "responses": [
+        "You're welcome! Is there anything else I can help with?",
+        "Happy to help! Let me know if you have more questions."
+      ]
+    }
+  ]
+}
+
