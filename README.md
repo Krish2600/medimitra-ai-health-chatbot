@@ -1,7 +1,6 @@
 ## Live Demo
 
-https://medimitra-ai-health.streamlit.app
-
+https://medimitra-ai.streamlit.app/
 
 # MediMitra – AI Healthcare Chatbot
 
