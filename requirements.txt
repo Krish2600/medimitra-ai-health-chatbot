@@ -4,3 +4,4 @@ pandas
 numpy
 pillow
 requests
+streamlit-mic-recorder
